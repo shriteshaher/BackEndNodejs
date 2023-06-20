@@ -1,0 +1,36 @@
+info: Oct-04-2022 13:01:27: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 13:02:59: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 13:03:24: 	ACCOUNT TABLE:[object SequelizeInstance:account]
+info: Oct-04-2022 13:05:24: 	ACCOUNT TABLE:[object SequelizeInstance:account]
+error: Oct-04-2022 13:05:24: 	Create ACCOUNT TABLE:Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+info: Oct-04-2022 13:11:19: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 13:45:31: 	ACCOUNT TABLE:[object SequelizeInstance:account]
+info: Oct-04-2022 13:58:33: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:01:26: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:01:40: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:01:48: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:01:50: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:02:10: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:02:16: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:02:19: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:02:20: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:02:24: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:02:26: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:02:32: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:02:34: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:03:09: 	ACCOUNT TABLE:[object SequelizeInstance:account]
+info: Oct-04-2022 14:04:52: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:05:01: 	ACCOUNT TABLE:[object SequelizeInstance:account]
+error: Oct-04-2022 14:05:16: 	Finding Bussness Name By APPOINTMENT TABLE ERROR OCCURRED:SequelizeDatabaseError: Unknown column 'appointment_booking.appointment_business_booking' in 'where clause'
+info: Oct-04-2022 14:18:14: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:18:15: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:18:21: 	Server Is Successfully Start Port No:8080
+error: Oct-04-2022 14:18:39: 	Fetch All Data From Availablity Table :SequelizeDatabaseError: Table 'appointment_scheduling.aviailiblities' doesn't exist
+error: Oct-04-2022 14:18:39: 	Fetching Bussiness Detail Table: SequelizeDatabaseError: Table 'appointment_scheduling.bussiness_details' doesn't exist
+info: Oct-04-2022 14:19:11: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 14:19:13: 	ACCOUNT TABLE:[object SequelizeInstance:account]
+info: Oct-04-2022 15:25:49: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 15:25:55: 	Server Is Successfully Start Port No:8080
+info: Oct-04-2022 16:11:54: 	ACCOUNT TABLE:[object SequelizeInstance:account]
+info: Nov-15-2022 21:19:00: 	Server Is Successfully Start Port No:8080
+info: Nov-15-2022 21:53:43: 	ACCOUNT TABLE:[object SequelizeInstance:account]
